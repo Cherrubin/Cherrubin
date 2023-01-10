@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cherrubin
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Statistics
+- 🌱 I’m currently learning Statistics and Computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
