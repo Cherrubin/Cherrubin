@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Cherrubin
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Statistics and Computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Cherrubin/Cherrubin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there!I'm junior data scientist passionate about turning data into actionable insights. I enjoy exploring datasets, building predictive models, and communicating results clearly.
+I'm currently learning and applying data science techniques across real-world datasets.
+I'm expanding my knowledge in :
+- Machine learning (supervised, unsupervised)
+- Data visualization and storytelling with data
+- Feature engineering and model evaluation
+- Data preprocesing and cleaning
